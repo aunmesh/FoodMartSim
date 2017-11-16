@@ -1,6 +1,8 @@
 import simpy 
 import numpy as np
 
+from players import *
+
 class Market(object):
 	'''	
 	Constructor for Market.
@@ -8,6 +10,7 @@ class Market(object):
 		env - Simpy env
 		name - Name of Market. (Can be named on city or area etc.)
 		players - list of all the agents. Each agent is an instance of Agent Class.
+
 	'''
 
 	def __init__(self,env,name, players):
