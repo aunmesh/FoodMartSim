@@ -19,18 +19,51 @@ class Agent(object):
 		self.loc_dist = local_distance
 		self.env = env
 
-class Farmer(Agent):
-    """docstring for Farmer."""
+	def run(self):
+		pass
 
-    def __init__(self, id, bid, local_distance, env):
-        super(Farmer, self).__init__(self, id, bid, local_distance, env)
-        self.true_type=max(0,random.gauss(60,40))
-        self.qty=random.uniform(0,20)
+
+
+class Farmer(Agent):
+	"""docstring for Farmer."""
+
+	def __init__(self, id, bid, local_distance, env):
+		super(Farmer, self).__init__(self, id, bid, local_distance, env)
+
+		self.true_type=max(0,random.gauss(60,40))
+		self.qty=random.uniform(0,20)
+
+
+		self.action = self.env.process(self.run())
+
+                self.rep_type = DUMMY_VAR
+	
+
+	def run(self):
+		#Perform Book Keeping Functions and update reported type variable
+
+	def get_reported_type(self):
+		return self.rep_type
+
+
+
 
 class Buyer(Agent):
-    """docstring for Buyer."""
+	"""docstring for Buyer."""
 
-    def __init__(self, id, bid, local_distance, env):
-        super(Buyer, self).__init__(self, id, True_Type, bid, local_distance, env)
-        self.true_type=max(0,random.gauss(100,40))
-        self.qty=random.uniform(0,20)
+	def __init__(self, id, bid, local_distance, env):
+		super(Buyer, self).__init__(self, id, True_Type, bid, local_distance, env)
+
+		self.true_type=max(0,random.gauss(100,40))
+		self.qty=random.uniform(0,20)
+
+		self.action = self.env.process(self.run())
+		self.
+
+	def run(self):
+		#Perform Book Keeping Functions 
+
+        def get_reported_type(self):
+                return self.rep_type
+
+
