@@ -1,3 +1,5 @@
+import simpy 
+import numpy as np
 
 class Market(object):
 	'''	
