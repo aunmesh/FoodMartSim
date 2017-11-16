@@ -13,8 +13,8 @@ class Agent(object):
 			Local_Distance: Local Distance of Agent from their market(to be used in the mechanism)
 	'''
 
-	def __init__(self, id, bid,local_distance, env):
-		self.id = id		
+	def __init__(self, Id, bid,local_distance, env):
+		self.id = Id		
 		self.bid = bid
 		self.loc_dist = local_distance
 		self.env = env
@@ -27,8 +27,8 @@ class Agent(object):
 class Farmer(Agent):
 	"""docstring for Farmer."""
 
-	def __init__(self, id, bid, local_distance, env):
-		super(Farmer, self).__init__(self, id, bid, local_distance, env)
+	def __init__(self, Id, bid, local_distance, env):
+		super(Farmer, self).__init__(self, Id, bid, local_distance, env)
 
 		self.true_type=max(0,random.gauss(60,40))
 		self.qty=random.uniform(0,20)
@@ -51,8 +51,8 @@ class Farmer(Agent):
 class Buyer(Agent):
 	"""docstring for Buyer."""
 
-	def __init__(self, id, bid, local_distance, env):
-		super(Buyer, self).__init__(self, id, True_Type, bid, local_distance, env)
+	def __init__(self, Id, bid, local_distance, env):
+		super(Buyer, self).__init__(self, Id, True_Type, bid, local_distance, env)
 
 		self.true_type=max(0,random.gauss(100,40))
 		self.qty=random.uniform(0,20)
