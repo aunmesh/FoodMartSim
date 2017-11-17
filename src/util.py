@@ -4,18 +4,19 @@ def UpdateAgents():
 #return a matrix of what is allocated to whom
 def RunMechanism():
   # computes allocation and payment
-  allocation = [[0 for x in range(seller_pop)] for y in range(buyer_pop)]
-  for i in range(seller_pop):
-      sell[i] = farmers[i].bid
+  # Insert code here: sellers should be sorted in ascending order of bids and buyers in descending order
+  allocation = [[0 for x in range(seller_pop)] for y in range(buyer_pop)] # 2D matrix to store quantity traded between each farmer and buyer
+  for i in range(seller_pop): # duplicating the supply and demand
+      sell[i] = farmers[i].qty
   for i in range(buyer_pop):
-      buy[i] = buyers[i].bid
+      buy[i] = buyers[i].qty
   s = 0
   b = 0
-  while(s < seller_pop - 1 and b < buyer_pop - 1):
-      q = min(sell[s], buy[b])
+  while(s < seller_pop - 1 and b < buyer_pop - 1):  # note that the last seller and last buyer never trades in this mechanism
+      q = min(sell[s], buy[b])  # 'q' denotes the quantity to be traded between seller 's' and buyer 'b'
       sell[s] -= q
       buy[b] -= q
-      if(not buy[b]):
+      if(not buy[b]): # decides whether to increment seller index or buyer index or both depending upon if any supply or demand is left to trade
           ds = 1
           db = 0
       elif(not sell[s]):
@@ -24,19 +25,19 @@ def RunMechanism():
       else:
           ds = 1
           db = 1
-      if(farmers[s + ds].bid > buyers[b + db].bid):
+      if(farmers[s + ds].bid > buyers[b + db].bid): # check if 's' and 'b' are break indices
           break
       else:
           allocation[s][b] = q
           s += ds
           b += db
 
-  for i in range(seller_pop):
+  for i in range(seller_pop): # assigns total trade done for each farmer and buyer
       for j in range(buyer_pop):
           farmers[i].qty_traded += allocation[i][j]
           buyers[j].qty_traded += allocation[i][j]
 
-  for i in range(seller_pop):
+  for i in range(seller_pop): # finds break index
       if(not farmers[i].qty_traded):
           Farmer.brk_index = i
           break
@@ -46,6 +47,7 @@ def RunMechanism():
           Buyer.brk_index = i
           break
 
+  # computes payment
   for i in range(Farmer.brk_index):
       farmers[i].payment = farmers[Farmer.brk_index].bid
 
