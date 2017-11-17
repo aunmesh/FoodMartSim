@@ -13,10 +13,10 @@ class Agent(object):
 			Local_Distance: Local Distance of Agent from their market(to be used in the mechanism)
 	'''
 
-	def __init__(self, Id, bid,local_distance, env):
-		self.id = Id		
-		self.bid = bid
-		self.loc_dist = local_distance
+	def __init__(self, Id, local_distance, env):
+		self.id = Id
+		#self.bid = bid
+		self.loc_dist = random.uniform(1,50)
 		self.env = env
 
 	def run(self):
@@ -27,23 +27,22 @@ class Agent(object):
 class Farmer(Agent):
 	"""docstring for Farmer."""
 
-	def __init__(self, Id, bid, local_distance, env):
+	def __init__(self, Id, env):
 		super(Farmer, self).__init__(self, Id, bid, local_distance, env)
 
 		self.true_type=max(0,random.gauss(60,40))
 		self.qty=random.uniform(0,20)
-
+		self.bid= max(true_type,random.gauss(true_type+10,40))
 
 		self.action = self.env.process(self.run())
 
-                self.rep_type = DUMMY_VAR
-	
+
 
 	def run(self):
 		#Perform Book Keeping Functions and update reported type variable
 
-	def get_reported_type(self):
-		return self.rep_type
+	def get_bid(self):
+		return self.bid
 
 
 
@@ -51,19 +50,17 @@ class Farmer(Agent):
 class Buyer(Agent):
 	"""docstring for Buyer."""
 
-	def __init__(self, Id, bid, local_distance, env):
-		super(Buyer, self).__init__(self, Id, True_Type, bid, local_distance, env)
+	def __init__(self, Id, env):
+		super(Buyer, self).__init__(self, Id, bid, local_distance, env)
 
 		self.true_type=max(0,random.gauss(100,40))
 		self.qty=random.uniform(0,20)
+		self.bid=max(0,min(true_type,random.gauss(true_type-10,40)))
+self.action = self.env.process(self.run())
 
-		self.action = self.env.process(self.run())
-		self.
 
 	def run(self):
-		#Perform Book Keeping Functions 
+		#Perform Book Keeping Functions
 
-        def get_reported_type(self):
-                return self.rep_type
-
-
+    def get_bid(self):
+            return self.bid
