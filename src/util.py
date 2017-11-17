@@ -11,14 +11,14 @@ def RunMechanism():
       buy[i] = buyers[i].bid
   s = 0
   b = 0
-  while(s < seller_pop - 1 && b < buyer_pop - 1):
+  while(s < seller_pop - 1 and b < buyer_pop - 1):
       q = min(sell[s], buy[b])
       sell[s] -= q
       buy[b] -= q
-      if(!buy[b]):
+      if(not buy[b]):
           ds = 1
           db = 0
-      elif(!sell[s]):
+      elif(not sell[s]):
           ds = 0
           db = 1
       else:
@@ -37,12 +37,12 @@ def RunMechanism():
           buyers[j].qty_traded += allocation[i][j]
 
   for i in range(seller_pop):
-      if(!farmers[i].qty_traded):
+      if(not farmers[i].qty_traded):
           Farmer.brk_index = i
           break
 
   for i in range(buyer_pop):
-      if(!buyers[i].qty_traded):
+      if(not buyers[i].qty_traded):
           Buyer.brk_index = i
           break
 
