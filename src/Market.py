@@ -60,6 +60,7 @@ class Market(object):
 	def PerformAllocations(farmers, buyers, Allocations):
 
 
+
 	# TradingDay is the function which will be called by the simpy simulator. It should carry out all the activities the market does in a trading day.
 	def Trading(self):
 
@@ -68,7 +69,7 @@ class Market(object):
 			#yield self.env.timeout(abs(np.random.normal(1,0.001)))
 
 			#add or remove agents for the day
-			UpdateAgents()
+			UpdateAgents(farmers,buyers)
 
 			'''
 			Seller_bids = {'Farmer_ID' : 'bid'}
@@ -85,7 +86,7 @@ class Market(object):
 			Allocations = Allocate(farmers,buyers)
 
 			#update bids for all agents (farmers and buyers)
-			UpdateBids()
+			UpdateBids(farmers,buyers)
 
 
 			#Perform Allocations
