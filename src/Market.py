@@ -13,7 +13,6 @@ class Market(object):
 		env - Simpy env
 		name - Name of Market. (Can be named on city or area etc.)
 		players - list of all the agents. Each agent is an instance of Agent Class.
-
 	'''
 
 	def __init__(self,env,name, farmer_pop, buyer_pop):
@@ -51,9 +50,9 @@ class Market(object):
 
 	#method to remove agent before trading starts
 	# used for every agent which is to be removed
-	def Remove_agent():
-
-
+	def Remove_agent(agent):
+		agent.action.interrupt()
+		agent.dead = True
 
 
 	# Method to perform Allocations in a single pass over the farmers and buyers list

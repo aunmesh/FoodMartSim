@@ -19,6 +19,7 @@ class Agent(object):
 		self.qty_traded = 0
 		self.payment = 0
 		self.env = env
+		self.dead = False
 
 	def run(self):
 		pass
