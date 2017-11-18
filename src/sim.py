@@ -1,7 +1,7 @@
 import simpy
 import numpy as np
 from Market import *
-from player import *
+from players import *
 
 env = simpy.Environment()
 
@@ -11,7 +11,7 @@ buyer_pop = 15#Numeric value
 time_steps = 10000 #Simulation Span
 
 
-market = Market(env, India, farmer_pop, buyer_pop)
+market = Market(env, 'India', farmer_pop, buyer_pop)
 
 '''Embedding the process in the Environment,
 cascaded constructor calls ensure individual agent

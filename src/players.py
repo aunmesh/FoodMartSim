@@ -41,12 +41,12 @@ class Farmer(Agent):
 
 	def __init__(self, Id, env):
 
-		super(Farmer, self).__init__(self, Id, env)
+		super(Farmer, self).__init__(Id, env)
 
 		self.true_type = math.floor(max(1,random.gauss(60,40)))
-		self.bid = math.floor(max(true_type,random.gauss(true_type+10,40)))
+		self.bid = math.floor(max( self.true_type , random.gauss( self.true_type + 10,40)))
 		self.qty = math.floor(random.uniform(1,20))
-
+		self.env = env
 		self.action = self.env.process(self.run())
 
 		self.loc_dist = random.uniform(1,50)
@@ -69,8 +69,9 @@ class Buyer(Agent):
 	def __init__(self, Id, env):
 		super(Buyer, self).__init__(self, Id, env)
 
+		self.env = env
 		self.true_type=math.floor(max(1,random.gauss(100,40)))
-		self.bid=math.floor(max(0,min(true_type,random.gauss(true_type-10,40))))
+		self.bid=math.floor(max(0,min(self.true_type,random.gauss(self.true_type-10,40))))
 		self.qty = math.floor(random.uniform(1,20))
 		self.action = self.env.process(self.run())
 

@@ -15,13 +15,14 @@ class Market(object):
 		farmer_pop - The farmer population
 		buyer_pop - The buyer population
 	'''
-	def __init__(self,env,name, farmer_pop, buyer_pop, Logger):
+	#def __init__(self,env,name, farmer_pop, buyer_pop, Logger):
+	def __init__(self,env,name, farmer_pop, buyer_pop):
 
 		self.env = env
 		self.name = name
 		self.farmer_pop=farmer_pop
 		self.buyer_pop=buyer_pop
-		self.logger = Logger
+		#self.logger = Logger
 		#Keeps the position where new ids are to be assigned from
 
 		self.FARMER_IDX = 0
