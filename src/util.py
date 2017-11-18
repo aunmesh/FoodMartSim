@@ -1,4 +1,18 @@
+'''Access the list farmers and buyers. Iterate through the list, send
+agents(which have become useless) to be terminated. Also perform remove from the list.
+We will need to dump their stats.
+'''
 def UpdateAgents():
+
+
+
+
+
+#method to remove agent before trading starts
+# used for every agent which is to be removed
+def Remove_agent(agent):
+	agent.action.interrupt()
+	agent.dead = True
 
 
 #return a matrix of what is allocated to whom
@@ -7,7 +21,7 @@ def RunMechanism():
   # sellers should be sorted in ascending order of bids and buyers in descending order
   farmers.sort(key=lambda x: x.bid, reverse=False)
   buyers.sort(key=lambda x: x.bid, reverse=True)
-  
+
   allocation = [[0 for x in range(seller_pop)] for y in range(buyer_pop)] # 2D matrix to store quantity traded between each farmer and buyer
   for i in range(seller_pop): # duplicating the supply and demand
       sell[i] = farmers[i].qty
@@ -56,7 +70,7 @@ def RunMechanism():
 
   for i in range(Buyer.brk_index):
       buyers[i].payment = buyers[Buyer.brk_index].bid
-      
+
   # sorting them back to initial positions to avoid inconsistency
   farmers.sort(key=lambda x: x.id, reverse=False)
   buyers.sort(key=lambda x: x.id, reverse=False)
