@@ -138,10 +138,10 @@ def RunMechanism(farmers, buyers):
 def UpdateBids(farmers,buyers):
 	for temp in farmers:
 		if temp.qty!=0:
-			temp.bid=temp.bid+temp.true_type
+			temp.bid=(temp.bid+temp.true_type) / 2
 	for temp in buyers:
 		if temp.qty!=0:
-			temp.bid=temp.bid+temp.true_type
+			temp.bid=(temp.bid+temp.true_type) / 2
 
 
 #def CheckDSIC():
