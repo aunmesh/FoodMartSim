@@ -129,7 +129,17 @@ def RunMechanism(farmers, buyers):
 
 
 #each agent updates bids according to last days sales
-def UpdateBids():
+# if he hasnt sold his stuff then move bid closer to the true_type
+# better to be less greedy and sell off stuff than to not sell
+# this is because farmer doesnt know what dsic means.
+# the farmer will eventually learn that his utility is more when his bid is close to true_type
+def UpdateBids(farmers,buyers):
+	for temp in farmers:
+		if temp.qty!=0:
+			temp.bid=temp.bid+temp.true_type
+	for temp in buyers:
+		if temp.qty!=0:
+			temp.bid=temp.bid+temp.true_type
 
 
 def CheckDSIC():
