@@ -72,7 +72,7 @@ class Market(object):
 
 			#update bids for all agents (farmers and buyers)
 			UpdateBids(farmers,buyers)
-
+			
 
 			#Perform Allocations
 			yield self.env.Process(PerformAllocations(self,Allocations))
