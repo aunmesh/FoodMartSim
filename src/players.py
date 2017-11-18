@@ -53,8 +53,9 @@ class Farmer(Agent):
 		self.qty_traded = 0
 		self.payment = 0
 
-
+	#
 	def run(self):
+		pass
 		#Perform Book Keeping Functions and update reported type variable
 
 	def get_bid(self):
@@ -73,6 +74,6 @@ class Buyer(Agent):
 		self.qty = math.floor(random.uniform(1,20))
 		self.action = self.env.process(self.run())
 
-
+	#Define some action here
 	def run(self):
-		#Perform Book Keeping Functions
+		pass#Perform Book Keeping Functions

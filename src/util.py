@@ -54,6 +54,8 @@ def Remove_agent(agent):
 	agent.dead = True
 
 # Method to perform Allocations in a single pass over the farmers and buyers list
+#Check whether the allocation is peformed at the correct seller/buyer id
+
 def PerformAllocations(market,Allocations):
 	for i in range(market.farmer_pop):
 		for j in range(market.buyer_pop):
