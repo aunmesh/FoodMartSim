@@ -12,7 +12,8 @@ class Market(object):
 	Args:
 		env - Simpy env
 		name - Name of Market. (Can be named on city or area etc.)
-		players - list of all the agents. Each agent is an instance of Agent Class.
+		farmer_pop - The farmer population
+		buyer_pop - The buyer population
 	'''
 
 	def __init__(self,env,name, farmer_pop, buyer_pop):
@@ -46,20 +47,6 @@ class Market(object):
 			buyer_pop+=1
 
 
-
-
-	#method to remove agent before trading starts
-	# used for every agent which is to be removed
-	def Remove_agent(agent):
-		agent.action.interrupt()
-		agent.dead = True
-
-
-	# Method to perform Allocations in a single pass over the farmers and buyers list
-	def PerformAllocations(farmers, buyers, Allocations):
-
-
-
 	# TradingDay is the function which will be called by the simpy simulator. It should carry out all the activities the market does in a trading day.
 	def Trading(self):
 
@@ -90,3 +77,7 @@ class Market(object):
 
 			#Perform Allocations
 			yield self.env.Process(PerformAllocations(self.farmers, self.buyers, Allocations))
+
+
+	# Method to perform Allocations in a single pass over the farmers and buyers list
+	def PerformAllocations(farmers, buyers, Allocations):
