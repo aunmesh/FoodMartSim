@@ -53,13 +53,16 @@ class Farmer(Agent):
 		self.qty_traded = 0
 		self.payment = 0
 
-	#
 	def run(self):
-		pass
+		x = 3
+		while True:
+			x = x
+		#yield self.Environment.Process( self.UpdateBid() )
 		#Perform Book Keeping Functions and update reported type variable
 
 	def get_bid(self):
 		return self.bid
+
 
 class Buyer(Agent):
 	"""docstring for Buyer."""
@@ -77,4 +80,6 @@ class Buyer(Agent):
 
 	#Define some action here
 	def run(self):
-		pass#Perform Book Keeping Functions
+		x = 3
+		while True:
+			x = x
