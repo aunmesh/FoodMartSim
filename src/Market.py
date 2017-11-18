@@ -46,25 +46,6 @@ class Market(object):
 		self.BUYER_IDX+=len(buyer_pop)
 
 
-	#Method to add agent before trading starts for the day
-	#used when new farmers or buyers are added into the sim
-	def Add_agent(Nums):
-		temp_farmer = Nums[0]
-		temp_buyer = Nums[0]
-
-		for temp in range(temp_farmer):
-			self.farmers.append(Farmer(FARMER_IDX + temp , self.env))
-
-		#Updating available ID
-		self.FARMER_IDX+=temp_farmer
-
-		for temp in range(temp_buyer):
-			self.buyers.append(Buyer(BUYER_IDX + temp , self.env))
-
-		#Updating available ID
-		self.BUYER_IDX+=temp_buyer
-
-
 	# TradingDay is the function which will be called by the simpy simulator. It should carry out all the activities the market does in a trading day.
 	def Trading(self):
 
