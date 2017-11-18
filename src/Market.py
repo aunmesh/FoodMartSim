@@ -75,8 +75,4 @@ class Market(object):
 
 
 			#Perform Allocations
-			yield self.env.Process(PerformAllocations(self.farmers, self.buyers, Allocations))
-
-
-	# Method to perform Allocations in a single pass over the farmers and buyers list
-	def PerformAllocations(farmers, buyers, Allocations):
+			yield self.env.Process(PerformAllocations(self,Allocations))

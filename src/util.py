@@ -9,7 +9,7 @@ def UpdateAgents(farmers,buyers,market):
 	flen1 = len(farmers)
 	blen1= len(buyers)
 
-	for temp in farmers:
+	for temp in farmers: #farmer has nothing to sell
 		if temp.qty == 0:
 			Remove_agent(temp)
 			farmers.remove(temp)
@@ -18,11 +18,11 @@ def UpdateAgents(farmers,buyers,market):
 	blen2=len(buyers)
 
 	for temp in buyers:
-		if temp.qty == 0:
+		if temp.qty == 0: # buyer has nothing to buy
 			Remove_agent(temp)
 			buyers.remove(temp)
 
-	market.Add_agent(flen1-flen2,blen1-blen2)
+	Add_agent(flen1-flen2,blen1-blen2)
 
 
 
@@ -53,8 +53,20 @@ def Remove_agent(agent):
 	agent.action.interrupt()
 	agent.dead = True
 
+# Method to perform Allocations in a single pass over the farmers and buyers list
+def PerformAllocations(market,Allocations):
+	for i in range(seller_pop):
+		for j in range(buyer_pop):
+			#decrease farmer quantity by the allocated value
+			# decrease buyer quantity by the allocated value
+			farmers[i].qty = farmers[i].qty - allocation[i][j]
+			buyers[j].qty = buyers[j].qty - allocation[i][j]
+
+
+
 
 #return a matrix of what is allocated to whom
+# ouput is (farmer_pop x buyer_pop) matrix where each element is quantity traded between them
 def RunMechanism():
   # computes allocation and payment
   # sellers should be sorted in ascending order of bids and buyers in descending order
@@ -63,8 +75,10 @@ def RunMechanism():
 
   allocation = [[0 for x in range(seller_pop)] for y in range(buyer_pop)] # 2D matrix to store quantity traded between each farmer and buyer
   for i in range(seller_pop): # duplicating the supply and demand
+      farmers[i].qty_traded=0
       sell[i] = farmers[i].qty
   for i in range(buyer_pop):
+	  buyers[i].qty_traded=0
       buy[i] = buyers[i].qty
   s = 0
   b = 0
