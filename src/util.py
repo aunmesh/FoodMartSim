@@ -1,4 +1,57 @@
-def UpdateAgents():
+'''Access the list farmers and buyers. Iterate through the list, send
+agents(which have become useless) to be terminated. Also perform remove from the list.
+We will need to dump their stats.
+
+The total number of agents is kept same for each trading day.
+We replenish the number of agents before allocation
+'''
+def UpdateAgents(farmers,buyers,market):
+	flen1 = len(farmers)
+	blen1= len(buyers)
+
+	for temp in farmers:
+		if temp.qty == 0:
+			Remove_agent(temp)
+			farmers.remove(temp)
+
+	flen2=len(farmers)
+	blen2=len(buyers)
+
+	for temp in buyers:
+		if temp.qty == 0:
+			Remove_agent(temp)
+			buyers.remove(temp)
+
+	market.Add_agent(flen1-flen2,blen1-blen2)
+
+
+
+#Method to add agent before trading starts for the day
+#used when new farmers or buyers are added into the sim
+# Nums is list of (no of farmers to be added, no of buyers to be added)
+def Add_agent(Nums):
+	temp_farmer = Nums[0]
+	temp_buyer = Nums[0]
+
+	for temp in range(temp_farmer):
+		self.farmers.append(Farmer(FARMER_IDX + temp , self.env))
+
+	#Updating available ID
+	self.FARMER_IDX+=temp_farmer
+
+	for temp in range(temp_buyer):
+		self.buyers.append(Buyer(BUYER_IDX + temp , self.env))
+
+	#Updating available ID
+	self.BUYER_IDX+=temp_buyer
+
+
+
+#method to remove agent before trading starts
+# used for every agent which is to be removed
+def Remove_agent(agent):
+	agent.action.interrupt()
+	agent.dead = True
 
 
 #return a matrix of what is allocated to whom
@@ -8,10 +61,6 @@ def RunMechanism(farmers, buyers):
   buyer_pop = len(buyers)
   farmers.sort(key=lambda x: x.bid, reverse=False)
   buyers.sort(key=lambda x: x.bid, reverse=True)
-  allocation = [[0 for x in range(seller_pop)] for y in range(buyer_pop)]
-  sell = [0 for x in range(seller_pop)]
-  buy = [0 for x in range(buyer_pop)]
-  for i in range(seller_pop):
       sell[i] = farmers[i].qty
   for i in range(buyer_pop):
       buy[i] = buyers[i].qty
@@ -56,7 +105,6 @@ def RunMechanism(farmers, buyers):
 
   for i in range(Buyer.brk_index):
       buyers[i].payment = buyers[Buyer.brk_index].bid
-      
   return allocation
 
 
