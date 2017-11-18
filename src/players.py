@@ -47,15 +47,6 @@ class Farmer(Agent):
 		self.bid = math.floor(max(true_type,random.gauss(true_type+10,40)))
 		self.qty = math.floor(random.uniform(1,20))
 
-
-		super(Farmer, self).__init__(self, Id, env)
-		#super(Farmer, self).__init__(self, Id, bid, local_distance, env)
-
-		self.true_type = max(0,random.gauss(60,40))
-		self.bid = max(true_type,random.gauss(true_type+10,40))
-		self.qty = random.uniform(0,20)
-
-
 		self.action = self.env.process(self.run())
 
 		self.loc_dist = random.uniform(1,50)
