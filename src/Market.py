@@ -32,20 +32,22 @@ class Market(object):
 		self.farmers = []
 		self.buyers = []
 
-		for temp_id in range(farmer_pop):
+		for temp_id in range(self.farmer_pop):
 			#temp_bid = #Sample from some distribution
 			self.farmers.append(Farmer(temp_id, self.env))
 
 		#Updating Farmer ID which is available
-		self.FARMER_IDX+=len(farmer_pop)
+		self.FARMER_IDX+=len(self.farmers)
 
-		for temp_id in range(buyer_pop):
+		for temp_id in range(self.buyer_pop):
 			self.buyers.append( Buyer(temp_id, self.env) )
 
 		#Updating Buyer ID which is available
-		self.BUYER_IDX+=len(buyer_pop)
+		self.BUYER_IDX+=len(self.buyers)
+
 
 	# TradingDay is the function which will be called by the simpy simulator. It should carry out all the activities the market does in a trading day.
+
 	def Trading(self):
 
 		while(True):
@@ -53,7 +55,7 @@ class Market(object):
 			#yield self.env.timeout(abs(np.random.normal(1,0.001)))
 
 			#add or remove agents for the day
-			UpdateAgents(farmers,buyers)
+			UpdateAgents(self.farmers,self.buyers,self)
 
 			'''
 			Seller_bids = {'Farmer_ID' : 'bid'}
@@ -67,12 +69,12 @@ class Market(object):
 				Buyer_bids[temp.getID()] = tmep.get_bid()
 			'''
 			# Allocations done by Allocate function imported from Allocate.py script
-			Allocations = Allocate(farmers,buyers)
+			#Allocations = Allocate(farmers,buyers)
+			Allocations = RunMechanism(self.farmers, self.buyers)
 
 			#update bids for all agents (farmers and buyers)
-			UpdateBids(farmers,buyers)
+			UpdateBids(self.farmers, self.buyers)
 			PerformAllocations(self,Allocations)
-
 
 			#Perform Allocations
 			#yield self.env.Process(PerformAllocations(self,Allocations))

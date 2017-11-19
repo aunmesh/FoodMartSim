@@ -65,8 +65,6 @@ def PerformAllocations(market,Allocations):
 			market.buyers[j].qty = marekt.buyers[j].qty - allocation[i][j]
 
 
-
-
 #return a matrix of what is allocated to whom
 # ouput is (farmer_pop x buyer_pop) matrix where each element is quantity traded between them
 def RunMechanism(farmers, buyers):
@@ -114,19 +112,23 @@ def RunMechanism(farmers, buyers):
 
 	for i in range(farmer_pop):
 		if(not farmers[i].qty_traded):
-			Farmer.brk_index = i
+			farmers[i].brk_index = i
+			#Farmer.brk_index = i
 			break
 
 	for i in range(buyer_pop):
 		if(not buyers[i].qty_traded):
-			Buyer.brk_index = i
+			buyers[i].brk_index = i
+			#Buyer.brk_index = i
 			break
 
-	for i in range(Farmer.brk_index):
-		farmers[i].payment = farmers[Farmer.brk_index].bid
+	for i in range(farmers[0].brk_index):
+		farmers[i].payment = farmers[farmer[i].brk_index].bid
+		#farmers[i].payment = farmers[Farmer.brk_index].bid
 
-	for i in range(Buyer.brk_index):
-		buyers[i].payment = buyers[Buyer.brk_index].bid
+	for i in range(buyers[0].brk_index):
+		buyers[i].payment = buyers[buyers[i].brk_index].bid
+		#buyers[i].payment = buyers[Buyer.brk_index].bid
 	return allocation
 
 
@@ -135,6 +137,7 @@ def RunMechanism(farmers, buyers):
 # better to be less greedy and sell off stuff than to not sell
 # this is because farmer doesnt know what dsic means.
 # the farmer will eventually learn that his utility is more when his bid is close to true_type
+'''
 def UpdateBids(farmers,buyers):
 	for temp in farmers:
 		if temp.qty!=0:
@@ -142,6 +145,14 @@ def UpdateBids(farmers,buyers):
 	for temp in buyers:
 		if temp.qty!=0:
 			temp.bid=(temp.bid+temp.true_type) / 2
+'''
+
+def UpdateBids(farmers,buyers):
+	for temp in farmers:
+		temp.action.interrupt()
+
+	for temp in buyers:
+		temp.action.interrupt()
 
 
 #def CheckDSIC():

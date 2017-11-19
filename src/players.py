@@ -12,15 +12,17 @@ class Agent(object):
 			bid: Bid of Agent
 			Local_Distance: Local Distance of Agent from their market(to be used in the mechanism)
 	'''
+
 	def __init__(self, Id, env):
 		self.id = Id
 		self.env = env
 		self.dead = False
 
-
+'''
 	def __init__(self, Id, env):
 		self.id = Id
 		self.loc_dist = math.floor(random.uniform(1,50))
+'''
 
 '''
 	def __init__(self, Id, local_distance, env):
@@ -47,18 +49,29 @@ class Farmer(Agent):
 		self.bid = math.floor(max( self.true_type , random.gauss( self.true_type + 10,40)))
 		self.qty = math.floor(random.uniform(1,20))
 		self.env = env
-		self.action = self.env.process(self.run())
+
+		self.action = env.process(self.run())
 
 		self.loc_dist = random.uniform(1,50)
 		self.qty_traded = 0
 		self.payment = 0
 
 	def run(self):
-		x = 3
+
 		while True:
-			x = x
-		#yield self.Environment.Process( self.UpdateBid() )
-		#Perform Book Keeping Functions and update reported type variable
+			try:
+				yield self.env.timeout(1)
+				#pass
+			except simpy.Interrupt:
+				#If  Killed then break out of loop
+				if(self.dead):
+					break
+				# You have to update your Bid
+				else:
+					self.bid = (self.bid + self.true_type) / 2
+
+
+			#Perform Book Keeping Functions and update reported type variable
 
 	def get_bid(self):
 		return self.bid
@@ -70,7 +83,8 @@ class Buyer(Agent):
 	brk_index = 0 #static variable to store the break even index
 
 	def __init__(self, Id, env):
-		super(Buyer, self).__init__(self, Id, env)
+
+		super(Buyer, self).__init__(Id, env)
 
 		self.env = env
 		self.true_type=math.floor(max(1,random.gauss(100,40)))
@@ -80,6 +94,15 @@ class Buyer(Agent):
 
 	#Define some action here
 	def run(self):
-		x = 3
+
 		while True:
-			x = x
+			try:
+				yield self.env.timeout(1)
+				#pass
+			except simpy.Interrupt:
+				#If  Killed then break out of loop
+				if(self.dead):
+					break
+				# You have to update your Bid
+				else:
+					self.bid = (self.bid + self.true_type) / 2
