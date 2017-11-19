@@ -83,7 +83,7 @@ class Buyer(Agent):
 	brk_index = 0 #static variable to store the break even index
 
 	def __init__(self, Id, env):
-
+		#print(" New Buyer Constructed")
 		super(Buyer, self).__init__(Id, env)
 
 		self.env = env
@@ -102,6 +102,7 @@ class Buyer(Agent):
 			except simpy.Interrupt:
 				#If  Killed then break out of loop
 				if(self.dead):
+					print("Buyer Killed")
 					break
 				# You have to update your Bid
 				else:

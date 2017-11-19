@@ -1,3 +1,4 @@
+from players import *
 '''Access the list farmers and buyers. Iterate through the list, send
 agents(which have become useless) to be terminated. Also perform remove from the list.
 We will need to dump their stats.
@@ -34,13 +35,13 @@ def Add_agent(market,Nums):
 	temp_buyer = Nums[0]
 
 	for temp in range(temp_farmer):
-		market.farmers.append(Farmer(FARMER_IDX + temp , market.env))
+		market.farmers.append(Farmer(market.FARMER_IDX + temp , market.env))
 
 	#Updating available ID
 	market.FARMER_IDX+=temp_farmer
 
 	for temp in range(temp_buyer):
-		market.buyers.append(Buyer(BUYER_IDX + temp , market.env))
+		market.buyers.append(Buyer(market.BUYER_IDX + temp , market.env))
 
 	#Updating available ID
 	market.BUYER_IDX+=temp_buyer
@@ -57,12 +58,13 @@ def Remove_agent(agent):
 #Check whether the allocation is peformed at the correct seller/buyer id
 
 def PerformAllocations(market,Allocations):
-	for i in range(market.farmer_pop):
-		for j in range(market.buyer_pop):
+	for i in range(len(Allocations[0])):
+		for j in range(len(Allocations)):
 			#decrease farmer quantity by the allocated value
 			# decrease buyer quantity by the allocated value
-			market.farmers[i].qty = market.farmers[i].qty - allocation[i][j]
-			market.buyers[j].qty = marekt.buyers[j].qty - allocation[i][j]
+			market.farmers[i].qty = market.farmers[i].qty - Allocations[j][i]
+			market.buyers[j].qty = market.buyers[j].qty - Allocations[j][i]
+	print(" Allocation Finished")
 
 
 #return a matrix of what is allocated to whom
@@ -105,10 +107,13 @@ def RunMechanism(farmers, buyers):
 		  allocation[s][b] = q
 		  s += ds
 		  b += db
+
 	for i in range(farmer_pop):
+		#print("Here " + str(buyer_pop))
 		for j in range(buyer_pop):
-			farmers[i].qty_traded += allocation[i][j]
-			buyers[j].qty_traded += allocation[i][j]
+			#CAUTION  FARMERS ARE IN THE COLUMN DIMENSION OF THE MATRIX  SEE allocation near LINE 79
+			farmers[i].qty_traded += allocation[j][i]
+			buyers[j].qty_traded += allocation[j][i]
 
 	for i in range(farmer_pop):
 		if(not farmers[i].qty_traded):
@@ -129,6 +134,9 @@ def RunMechanism(farmers, buyers):
 	for i in range(buyers[0].brk_index):
 		buyers[i].payment = buyers[buyers[i].brk_index].bid
 		#buyers[i].payment = buyers[Buyer.brk_index].bid
+
+	print(" Mechanism Finished")
+
 	return allocation
 
 
