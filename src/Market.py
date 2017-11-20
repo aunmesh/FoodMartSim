@@ -16,7 +16,7 @@ class Market(object):
 		buyer_pop - The buyer population
 	'''
 	#def __init__(self,env,name, farmer_pop, buyer_pop, Logger):
-	def __init__(self,env,name, farmer_pop, buyer_pop):
+	def __init__(self,env,name, farmer_pop, buyer_pop,logger):
 
 		self.env = env
 		self.name = name
@@ -27,6 +27,7 @@ class Market(object):
 
 		self.FARMER_IDX = 0
 		self.BUYER_IDX = 0
+		self.logger = logger
 
 		#List of all farmer and buyer objects.
 		self.farmers = []
@@ -55,10 +56,10 @@ class Market(object):
 			UpdateAgents(self.farmers,self.buyers,self)
 
 			# Allocations done by Allocate function imported from Allocate.py script
-			Allocations = RunMechanism(self.farmers, self.buyers)
+			Allocations = RunMechanism2(self, logger)
 
 			#update bids for all agents (farmers and buyers)
-			UpdateBids(self.farmers, self.buyers)
+			UpdateBids(self)
 
 			#Perform the allocations by adjusting the values
 			PerformAllocations(self,Allocations)
