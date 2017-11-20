@@ -56,7 +56,7 @@ class Market(object):
 			UpdateAgents(self.farmers,self.buyers,self)
 
 			# Allocations done by Allocate function imported from Allocate.py script
-			Allocations = RunMechanism(self, logger)
+			Allocations = RunMechanism2(self, logger)
 
 			#update bids for all agents (farmers and buyers)
 			UpdateBids(self)

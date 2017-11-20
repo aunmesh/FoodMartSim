@@ -62,8 +62,8 @@ def PerformAllocations(market,Allocations):
 		for j in range(len(Allocations)):
 			#decrease farmer quantity by the allocated value
 			# decrease buyer quantity by the allocated value
-			market.farmers[i].qty = market.farmers[i].qty - Allocations[j][i]
-			market.buyers[j].qty = market.buyers[j].qty - Allocations[j][i]
+			market.farmers[i].qty = market.farmers[i].qty - Allocations[i][j]
+			market.buyers[j].qty = market.buyers[j].qty - Allocations[i][j]
 	print(" Allocation Finished")
 
 

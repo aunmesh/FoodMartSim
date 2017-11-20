@@ -204,9 +204,9 @@ def RunMechanism2(market, logger):
 
 	logger.log([totaltrade, marketprofit])
 
-	print(end='\n')
-	print(marketprofit, end=' ')
-	print(end='\n')
+	#print(end="\n)
+	#print(marketprofit, end=' ')
+	#print(end='\n')
 	return allocation
 	
 #each agent updates bids according to last days sales

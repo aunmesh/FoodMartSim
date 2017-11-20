@@ -5,6 +5,7 @@ import numpy as np
 #from Allocate import *
 from players import *
 from util import *
+from csvLogger import logger
 
 class Market(object):
 	'''
