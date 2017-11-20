@@ -46,7 +46,12 @@ class Farmer(Agent):
 		super(Farmer, self).__init__(Id, env)
 
 		self.true_type = math.floor(max(1,random.gauss(60,40)))
+		if(self.true_type < 0):
+			print( "WARNING")
 		self.bid = math.floor(max( self.true_type , random.gauss( self.true_type + 10,40)))
+		if(self.bid < 0):
+			print( "WARNING")
+
 		self.qty = math.floor(random.uniform(1,20))
 		self.env = env
 
@@ -91,6 +96,7 @@ class Buyer(Agent):
 		self.bid=math.floor(max(0,min(self.true_type,random.gauss(self.true_type-10,40))))
 		self.qty = math.floor(random.uniform(1,20))
 		self.action = self.env.process(self.run())
+		self.payment = 0
 
 	#Define some action here
 	def run(self):

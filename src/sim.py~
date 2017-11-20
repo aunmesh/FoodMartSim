@@ -4,7 +4,7 @@ from Market import *
 from players import *
 from csvLogger import logger
 
-logger = logger('ProfitvsNetTrade.log', ['Market_Profit','Net_Quantity_Traded','Farmer_pop','Buyer_pop'])
+logger = logger('ProfitvsNetTrade.log', ['Farmer_Payment','Buyer_Payment','Market_Profit','Net_Quantity_Traded','Farmer_pop','Buyer_pop'])
 
 env = simpy.Environment()
 

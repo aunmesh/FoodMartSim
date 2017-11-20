@@ -12,7 +12,7 @@ class logger(object):
 
     def make_string(self, fields):
         fields = [str(x) for x in fields]
-        return '  ,  '.join(fields)+'\n'
+        return ','.join(fields)+'\n'
 
     def log(self, values):
         assert(len(values) == self.num_fields), len(values)

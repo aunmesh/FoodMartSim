@@ -160,12 +160,20 @@ def RunMechanism(market,logger):
 		NET_PAYMENT+=market.buyers[i].payment * market.buyers[i].qty_traded
 		#buyers[i].payment = buyers[Buyer.brk_index].bid
 
+	#print(" Mechanism Finished")
 	print(" Ended")
 
 	logger.log([NET_PAYMENT, NET_TRADE, farmer_pop, buyer_pop])
 
 	Alloc = np.asarray(allocation)
 
+	'''
+	for i in range(buyer_pop):
+		for j in range(farmer_pop):
+			if Alloc[i][j]:
+				print(market.buyers[i].payment - market.farmers[j].payment)
+		print("\n")
+	'''
 
 	return allocation
 

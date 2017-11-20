@@ -1,0 +1,5730 @@
+94.0
+94.0
+94.0
+94.0
+94.0
+93.0
+93.0
+93.0
+93.0
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+118.0
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
+ Ended
+ Allocation Finished
