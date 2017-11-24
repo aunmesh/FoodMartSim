@@ -1,0 +1,242 @@
+import random
+import math
+
+class Market(object):
+    '''
+    Constructor for Market.
+    Args:
+            env - Simpy env
+            name - Name of Market. (Can be named on city or area etc.)
+            farmer_pop - The farmer population
+            buyer_pop - The buyer population
+    '''
+    #def __init__(self,env,name, farmer_pop, buyer_pop, Logger):
+    def __init__(self,farmer_pop,buyer_pop):
+
+        self.farmer_pop=farmer_pop
+        self.buyer_pop=buyer_pop
+        #self.logger = Logger
+        #Keeps the position where new ids are to be assigned from
+
+        self.FARMER_IDX = 0
+        self.BUYER_IDX = 0
+
+        #farmer and buyer break indices
+        self.farmerBI = 0
+        self.buyerBI = 0
+
+        self.profit_per_trade = 0
+        #profit of market from trade
+        self.profit_trade = 0
+        #profit of market by trying to balance mechanism
+        self.profit_mech = 0
+        
+        self.total_trade_buyer = 0
+        self.total_trade_farmer = 0
+        
+
+        #total quantity traded by marginal (break_index) farmer
+        self.marg_farmer_qty_traded = 0
+        #total quantity traded by marginal (break_index) buyer
+        self.marg_buyer_qty_traded = 0
+        
+        
+        #List of all farmer and buyer objects.
+        self.farmers = []
+        self.buyers = []
+
+        #Qty of trade by market to farmers and buyers
+        self.qty_from_farmers = [0 for x in range(farmer_pop)]
+        self.qty_to_buyers = [0 for x in range(buyer_pop)]
+
+        for temp_id in range(self.farmer_pop):
+            self.farmers.append(Farmer(temp_id,temp_id+1))
+
+        self.farmers.sort(key=lambda x: x.bid, reverse=False)
+        #Updating Farmer ID which is available
+        self.FARMER_IDX+=len(self.farmers)
+
+        for temp_id in range(self.buyer_pop):
+            self.buyers.append( Buyer(temp_id,temp_id+4) )
+        self.buyers.sort(key=lambda x: x.bid, reverse=True)
+        #Updating Buyer ID which is available
+        self.BUYER_IDX+=len(self.buyers)
+		
+class Agent(object):
+
+	'''Constructor for the super class Agent
+		Args:
+			id: Name of Agent
+			True_Type: True Type of Agent
+			bid: Bid of Agent
+			Local_Distance: Local Distance of Agent from their market(to be used in the mechanism)
+	'''
+
+	def __init__(self, Id):
+		self.id = Id
+		self.loc_dist = random.uniform(1,50)
+		self.qty_traded = 0
+		self.payment = 0
+
+class Farmer(Agent):
+	"""docstring for Farmer."""
+	
+	def __init__(self, Id, typ):
+		super(Farmer, self).__init__(Id)
+
+		self.true_type = math.floor(max(1,random.gauss(60,40)))
+		self.bid = self.true_type
+		self.qty = math.floor(random.uniform(1,20))
+
+class Buyer(Agent):
+	"""docstring for Buyer."""
+	
+	def __init__(self, Id, typ):
+		super(Buyer, self).__init__(Id)
+
+		self.true_type = math.floor(max(1,random.gauss(100,40)))
+		self.bid = self.true_type
+		self.qty= math.floor(random.uniform(1,20))
+
+
+def runMechanism(market):
+  # computes allocation and payment
+  farmer_pop = len(market.farmers)
+  buyer_pop = len(market.buyers)
+  #market.farmers.sort(key=lambda x: x.bid, reverse=False)
+  #market.buyers.sort(key=lambda x: x.bid, reverse=True)
+  allocation = [[0 for x in range(buyer_pop)] for y in range(farmer_pop)]
+  sell = [0 for x in range(farmer_pop)]
+  buy = [0 for x in range(buyer_pop)]
+##  totaltrade = 0
+  for i in range(farmer_pop):
+      sell[i] = market.farmers[i].qty
+  for i in range(buyer_pop):
+      buy[i] = market.buyers[i].qty
+  s = 0
+  b = 0
+  while(s < farmer_pop and b < buyer_pop and market.farmers[s].bid <= market.buyers[b].bid):
+      q = min(sell[s], buy[b])
+      sell[s] -= q
+      buy[b] -= q
+      allocation[s][b] = q
+##      totaltrade += q
+      if(not buy[b]):
+          b += 1
+      if(not sell[s]):
+          s += 1
+
+  for i in range(farmer_pop):
+      for j in range(buyer_pop):
+          market.farmers[i].qty_traded += allocation[i][j]
+          market.buyers[j].qty_traded += allocation[i][j]
+
+  for i in range(farmer_pop):
+      if(market.farmers[i].qty_traded):
+          market.farmerBI = i
+      else:
+          break
+
+  for j in range(buyer_pop):
+      if(market.buyers[j].qty_traded):
+          market.buyerBI = j
+      else:
+          break
+
+  market.marg_farmer_qty_traded = market.farmers[market.farmerBI].qty_traded - 1
+  market.marg_buyer_qty_traded = market.buyers[market.buyerBI].qty_traded - 1
+  market.farmers[market.farmerBI].qty_traded = 0
+  market.buyers[market.buyerBI].qty_traded = 0
+
+  allocation[market.farmerBI][market.buyerBI] = 0
+
+  for i in range(market.farmer_pop):
+      #market.farmers[i].qty_traded -= allocation[i][market.buyerBI]
+      market.qty_from_farmers[i] = allocation[i][market.buyerBI]
+      allocation[i][market.buyerBI] = 0
+
+  for j in range(market.buyer_pop):
+      #market.buyers[j].qty_traded -= allocation[market.farmerBI][j]
+      market.qty_to_buyers[j] = allocation[market.farmerBI][j]
+      allocation[market.farmerBI][j] = 0
+
+  for i in range(farmer_pop):
+      market.farmers[i].payment = market.farmers[i].qty_traded * market.farmers[market.farmerBI].bid
+      market.total_trade_farmer += market.farmers[i].qty_traded
+
+  for j in range(buyer_pop):
+      market.buyers[j].payment = market.buyers[j].qty_traded * market.buyers[market.buyerBI].bid
+      market.total_trade_buyer += market.buyers[j].qty_traded
+
+  if(market.total_trade_farmer > market.total_trade_buyer):
+      market.profit_mech = (market.total_trade_buyer - market.total_trade_farmer)* market.farmers[market.farmerBI].bid
+  else:
+      market.profit_mech = (market.total_trade_buyer - market.total_trade_farmer)* market.farmers[market.buyerBI].bid
+  market.profit_per_trade = market.buyers[market.buyerBI].bid - market.farmers[market.farmerBI].bid
+  market.profit_trade = min(market.total_trade_farmer, market.total_trade_buyer)*market.profit_per_trade
+  print(end='\n')
+  print("Market profit per trade: {2:d}, Total market trade profit: {0:d}, Misc profit: {1:d}".format(market.profit_trade, market.profit_mech, market.profit_per_trade), end='\n')
+  print("Quantity of goods in hand of market: {0:d}".format(market.total_trade_farmer - market.total_trade_buyer), end='\n')
+  return allocation
+
+def calculate_efficiency(market):
+  welfare = 0
+  maxwelfare = 0
+  farmer_pop = len(market.farmers)
+  buyer_pop = len(market.buyers)
+  for i in range(farmer_pop):
+    welfare -= (market.farmers[i].qty_traded - market.qty_from_farmers[i]) * market.farmers[i].true_type
+  for i in range(buyer_pop):
+    welfare += (market.buyers[i].qty_traded - market.qty_to_buyers[i])* market.buyers[i].true_type
+  maxwelfare = welfare
+  maxwelfare += market.marg_farmer_qty_traded* market.farmers[market.farmerBI].true_type
+  maxwelfare += market.marg_buyer_qty_traded* market.buyers[market.buyerBI].true_type
+  #print("Welfare {0:d} Max welfare {1:f}".format(welfare, maxwelfare), end='\n')
+  efficiency = welfare/maxwelfare
+  return efficiency
+
+def main():
+  # main function
+  farmer_pop = 5
+  buyer_pop = 5
+  market = Market(farmer_pop, buyer_pop)
+##  for id in range(farmer_pop):
+##    market.farmers.append(Farmer(id, id+1))
+##  for id in range(buyer_pop):
+##    market.buyers.append(Buyer(id, id+farmer_pop-2))
+  market.farmers[0].qty = 1
+  allocation = runMechanism(market)
+
+  for i in range(farmer_pop):
+    print('{0:2d} {1:3d}'.format(market.farmers[i].bid, market.farmers[i].qty))
+  print(end='\n')
+  for i in range(buyer_pop):
+    print('{0:2d} {1:3d}'.format(market.buyers[i].bid, market.buyers[i].qty))
+  print(end='\n')
+
+  print('{0:2d} {1:3d}'.format(market.farmerBI, market.buyerBI))
+  print(end='\n')
+  for i in range(farmer_pop):
+    for j in range(buyer_pop):
+      print(allocation[i][j], end=' ')
+    print(end='\n')
+
+  print(end='\n')
+
+  for i in range(farmer_pop):
+      print('{0:2d} {1:3d}'.format(market.farmers[i].id, market.farmers[i].qty_traded))
+  print(end='\n')
+  for j in range(buyer_pop):
+      print('{0:2d} {1:3d}'.format(market.buyers[j].id, market.buyers[j].qty_traded))
+
+  for pop in range(1, 10):
+      
+    market = Market(pop, pop)
+    allocation = runMechanism(market)
+    efficiency = calculate_efficiency(market)
+    print("Efficiency for {0:d} players: {1:f}".format(pop, efficiency), end='\n')
+    del market
+    
+
+if __name__ == "__main__":
+  main()
