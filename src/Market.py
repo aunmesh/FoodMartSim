@@ -1,5 +1,6 @@
 import simpy
 import numpy as np
+from Mechanisms import *
 
 #Allocate function is assumed to contain the Allocate function
 #from Allocate import *
@@ -57,7 +58,7 @@ class Market(object):
 			UpdateAgents(self.farmers,self.buyers,self)
 
 			# Allocations done by Allocate function imported from Allocate.py script
-			Allocations = RunMechanism2(self, logger)
+			Allocations = runMechanism(self, logger)
 
 			#update bids for all agents (farmers and buyers)
 			UpdateBids(self)

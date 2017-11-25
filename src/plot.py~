@@ -1,0 +1,69 @@
+import numpy as np
+import pandas as pd
+from bokeh.plotting import figure, curdoc, show
+from bokeh.models.sources import ColumnDataSource
+from bokeh.client import push_session
+from bokeh.driving import linear
+from bokeh.models import Range1d
+
+# ["Market_Profit", "Qty_Traded"]
+#
+
+def smoothen(a, b, n=100):
+    y_smoothed = np.convolve(b, np.ones(n) / n)[n - 1:1 - n]
+    a = a[0: y_smoothed.shape[0]]
+    return a, y_smoothed
+
+Log_File = 'MarketProfit.log'
+data = pd.read_csv(Log_File)
+
+Field_1 = 'Market_Profit'
+Field_2 = 'Qty_Traded'
+
+popul = np.asarray(data[ Field_1 ])
+
+x = np.linspace(0, popul.shape[0] - 1, popul.shape[0])
+
+x, popul = smoothen(x, popul)
+
+popFig = figure(plot_width=800,
+                plot_height=400,
+                title="Population plot",
+                x_axis_label='Time',
+                y_axis_label='Population')
+datacoords = ColumnDataSource(data=dict(x=x[100:-1], y=popul[100:-1]))
+linea = popFig.line("x", "y", source=datacoords)
+show(popFig)
+
+
+happy = np.asarray(data['Happy'])
+x, happy = smoothen(x, happy)
+HapFig = figure(plot_width=800,
+                plot_height=400,
+                title="Happiness plot",
+                x_axis_label='Time',
+                y_axis_label='Happiness',
+                y_range = (0, 0.5)
+                )
+
+datacoords = ColumnDataSource(data=dict(x=x[100:-1], y=happy[100:-1]))
+lineb = HapFig.line("x", "y", source=datacoords)
+show(HapFig)
+
+
+@linear(m=0.05, b=0)
+def update(step):
+    data = pd.read_csv('simul.log')
+    popul = np.asarray(data['Popul'])
+    happy = np.asarray(data['Happy'])
+    x = np.linspace(0, popul.shape[0] - 1, happy.shape[0] - 1)
+    linea.data_source.data["x"] = x
+    linea.data_source.data["y"] = popul[0:-1]
+    lineb.data_source.data["x"] = x
+    lineb.data_source.data["y"] = happy[0:-1]
+
+# open a session to keep our local document in sync with server
+session = push_session(curdoc())
+curdoc().add_periodic_callback(update, 0.01)  # period in ms
+session.show()
+session.loop_until_closed()
