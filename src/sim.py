@@ -8,9 +8,11 @@ env = simpy.Environment()
 farmer_pop = 15#Numeric value
 buyer_pop = 15#Numeric value
 
-time_steps = 10000 #Simulation Span
+time_steps = 100000 #Simulation Span
 
-logger = logger("MarketProfit", [ 'Market_Profit_per_trade' , 'Difference_in_mean_types'])
+#logger = logger("MarketProfit", [ 'Market_Profit_per_trade' , 'Difference_in_mean_types'])
+
+logger = logger("Efficiency", [ 'efficiency'])
 
 market = Market(env, 'India', farmer_pop, buyer_pop, logger)
 

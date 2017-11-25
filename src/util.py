@@ -82,6 +82,27 @@ def UpdateBids(self):
 		temp.action.interrupt()
 
 
+
+
+def calculate_efficiency(market, logger):
+  welfare = 0
+  maxwelfare = 0
+  farmer_pop = len(market.farmers)
+  buyer_pop = len(market.buyers)
+  for i in range(farmer_pop):
+    welfare -= (market.farmers[i].qty_traded - market.qty_from_farmers[i]) * market.farmers[i].true_type
+  for i in range(buyer_pop):
+    welfare += (market.buyers[i].qty_traded - market.qty_to_buyers[i])* market.buyers[i].true_type
+  maxwelfare = welfare
+  maxwelfare += market.marg_farmer_qty_traded* market.farmers[market.farmerBI].true_type
+  maxwelfare += market.marg_buyer_qty_traded* market.buyers[market.buyerBI].true_type
+  #print("Welfare {0:d} Max welfare {1:f}".format(welfare, maxwelfare), end='\n')
+  efficiency = welfare/maxwelfare
+  logger.log([efficiency])
+  return efficiency
+
+
+
 '''
 def UpdateBids(farmers,buyers):
 	for temp in farmers:

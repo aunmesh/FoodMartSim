@@ -95,7 +95,7 @@ def runMechanism(market, logger):
     if(not market.profit_trade):
         market.profit_per_trade = 0
 
-    logger.log([ market.profit_per_trade , Buyer.BUYER_TYPE_MU - Farmer.FARMER_TYPE_MU ])
+    #logger.log([ market.profit_per_trade , Buyer.BUYER_TYPE_MU - Farmer.FARMER_TYPE_MU ])
 
     #print('\n')
     #print("Market profit per trade: {2:d}, Total market trade profit: {0:d}, Misc profit: {1:d}".format(market.profit_trade, market.profit_mech, market.profit_per_trade))
@@ -107,10 +107,6 @@ def runMechanism(market, logger):
 
     print("Mechanism Finished")
     return allocation
-
-
-
-
 
 
 

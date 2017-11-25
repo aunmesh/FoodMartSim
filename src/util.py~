@@ -58,21 +58,50 @@ def Remove_agent(agent):
 #Check whether the allocation is peformed at the correct seller/buyer id
 
 def PerformAllocations(market,Allocations):
-	for i in range(len(Allocations[0])):
-		for j in range(len(Allocations)):
+	for col in range(len(Allocations[0])):
+		for row in range(len(Allocations)):
 			#decrease farmer quantity by the allocated value
 			# decrease buyer quantity by the allocated value
-			market.farmers[i].qty = market.farmers[i].qty - Allocations[i][j]
-			market.buyers[j].qty = market.buyers[j].qty - Allocations[i][j]
+			market.farmers[row].qty = market.farmers[row].qty - Allocations[row][col]
+			market.buyers[col].qty = market.buyers[col].qty - Allocations[row][col]
 	print(" Allocation Finished")
 
 
-	
+
 #each agent updates bids according to last days sales
 # if he hasnt sold his stuff then move bid closer to the true_type
 # better to be less greedy and sell off stuff than to not sell
 # this is because farmer doesnt know what dsic means.
 # the farmer will eventually learn that his utility is more when his bid is close to true_type
+
+def UpdateBids(self):
+	for temp in self.farmers:
+		temp.action.interrupt()
+
+	for temp in self.buyers:
+		temp.action.interrupt()
+
+
+
+
+def calculate_efficiency(market, logger):
+  welfare = 0
+  maxwelfare = 0
+  farmer_pop = len(market.farmers)
+  buyer_pop = len(market.buyers)
+  for i in range(farmer_pop):
+    welfare -= (market.farmers[i].qty_traded - market.qty_from_farmers[i]) * market.farmers[i].true_type
+  for i in range(buyer_pop):
+    welfare += (market.buyers[i].qty_traded - market.qty_to_buyers[i])* market.buyers[i].true_type
+  maxwelfare = welfare
+  maxwelfare += market.marg_farmer_qty_traded* market.farmers[market.farmerBI].true_type
+  maxwelfare += market.marg_buyer_qty_traded* market.buyers[market.buyerBI].true_type
+  #print("Welfare {0:d} Max welfare {1:f}".format(welfare, maxwelfare), end='\n')
+  efficiency = welfare/maxwelfare
+  return efficiency
+
+
+
 '''
 def UpdateBids(farmers,buyers):
 	for temp in farmers:
@@ -82,13 +111,6 @@ def UpdateBids(farmers,buyers):
 		if temp.qty!=0:
 			temp.bid=(temp.bid+temp.true_type) / 2
 '''
-
-def UpdateBids(self):
-	for temp in self.farmers:
-		temp.action.interrupt()
-
-	for temp in self.buyers:
-		temp.action.interrupt()
 
 
 #def CheckDSIC():

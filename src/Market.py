@@ -76,7 +76,7 @@ class Market(object):
 	def Trading(self):
 
 		while(True):
-			yield self.env.timeout(5)
+			yield self.env.timeout(0.1)
 
 			#add or remove agents for the day
 			UpdateAgents(self.farmers,self.buyers,self)\
@@ -92,6 +92,8 @@ class Market(object):
 
 			# Allocations done by Allocate function imported from Allocate.py script
 			Allocations = runMechanism(self, self.logger)
+			
+			eff = calculate_efficiency(self, self.logger)
 
 			#update bids for all agents (farmers and buyers)
 			UpdateBids(self)

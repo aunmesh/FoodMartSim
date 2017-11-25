@@ -14,7 +14,7 @@ def smoothen(a, b, n=100):
     a = a[0: y_smoothed.shape[0]]
     return a, y_smoothed
 
-Log_File = 'MarketProfit'
+Log_File = 'Efficiency'
 data = pd.read_csv(Log_File)
 
 '''
@@ -45,7 +45,7 @@ show(popFig)
 ################################################
 
 
-Field1_name = 'Market_Profit_per_trade'
+Field1_name = 'efficiency'
 #Field2_name = 'Qty_Traded'
 
 Field1 = np.asarray(data[Field1_name])

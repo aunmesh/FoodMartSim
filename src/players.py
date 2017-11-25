@@ -41,7 +41,7 @@ class Farmer(Agent):
 
 	brk_index = 0 #static variable to store the break even index
 
-	FARMER_TYPE_MU = 60
+	FARMER_TYPE_MU = 75
 	FARMER_TYPE_VAR = 10
 
 	QUANTITY_LOWER_LIMIT = 1
@@ -68,7 +68,7 @@ class Farmer(Agent):
 
 		while True:
 			try:
-				yield self.env.timeout(1)
+				yield self.env.timeout(0.1)
 				#pass
 			except simpy.Interrupt:
 				#If  Killed then break out of loop
@@ -114,7 +114,7 @@ class Buyer(Agent):
 
 		while True:
 			try:
-				yield self.env.timeout(1)
+				yield self.env.timeout(0.1)
 				#pass
 			except simpy.Interrupt:
 				#If  Killed then break out of loop

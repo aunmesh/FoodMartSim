@@ -48,17 +48,52 @@ class Market(object):
 		#Updating Buyer ID which is available
 		self.BUYER_IDX+=len(self.buyers)
 
+		#farmer and buyer break indices
+		self.farmerBI = 0
+		self.buyerBI = 0
+
+		self.profit_per_trade = 0
+		#profit of market from trade
+		self.profit_trade = 0
+		#profit of market by trying to balance mechanism
+		self.profit_mech = 0
+
+		self.total_trade_buyer = 0
+		self.total_trade_farmer = 0
+
+
+		#total quantity traded by marginal (break_index) farmer
+		self.marg_farmer_qty_traded = 0
+		#total quantity traded by marginal (break_index) buyer
+		self.marg_buyer_qty_traded = 0
+
+		#Qty of trade by market to farmers and buyers
+		self.qty_from_farmers = [0 for x in range(farmer_pop)]
+		self.qty_to_buyers = [0 for x in range(buyer_pop)]
+
 
 	# TradingDay is the function which will be called by the simpy simulator. It should carry out all the activities the market does in a trading day.
 	def Trading(self):
 
 		while(True):
+			yield self.env.timeout(0.1)
 
 			#add or remove agents for the day
-			UpdateAgents(self.farmers,self.buyers,self)
+			UpdateAgents(self.farmers,self.buyers,self)\
+
+			self.farmer_pop= len(self.farmers)
+			self.buyer_pop= len(self.buyers)
+
+			del self.qty_from_farmers
+			del self.qty_to_buyers
+
+			self.qty_from_farmers = [0 for x in range(self.farmer_pop)]
+			self.qty_to_buyers = [0 for x in range(self.buyer_pop)]
 
 			# Allocations done by Allocate function imported from Allocate.py script
-			Allocations = RunMechanism(self, logger)
+			Allocations = runMechanism(self, self.logger)
+			
+			eff = calculate_efficiency(market, logger)
 
 			#update bids for all agents (farmers and buyers)
 			UpdateBids(self)
