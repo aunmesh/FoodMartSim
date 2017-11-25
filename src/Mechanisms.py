@@ -65,8 +65,13 @@ def runMechanism(market, logger):
       market.qty_from_farmers[i] = allocation[i][market.buyerBI]
       allocation[i][market.buyerBI] = 0
 
-    for j in range(market.buyer_pop):
+    #print('DEBUG')
+    #print(buyer_pop)
+
+    for j in range(buyer_pop):
       #market.buyers[j].qty_traded -= allocation[market.farmerBI][j]
+      market.qty_to_buyers[j]
+      allocation[market.farmerBI][j]
       market.qty_to_buyers[j] = allocation[market.farmerBI][j]
       allocation[market.farmerBI][j] = 0
 
@@ -82,7 +87,7 @@ def runMechanism(market, logger):
       market.profit_mech = (market.total_trade_buyer - market.total_trade_farmer)* market.farmers[market.farmerBI].bid
 
     else:
-      market.profit_mech = (market.total_trade_buyer - market.total_trade_farmer)* market.farmers[market.buyerBI].bid
+      market.profit_mech = (market.total_trade_buyer - market.total_trade_farmer)* market.buyers[market.buyerBI].bid
 
     market.profit_per_trade = market.buyers[market.buyerBI].bid - market.farmers[market.farmerBI].bid
     market.profit_trade = min(market.total_trade_farmer, market.total_trade_buyer)*market.profit_per_trade
@@ -90,15 +95,17 @@ def runMechanism(market, logger):
     if(not market.profit_trade):
         market.profit_per_trade = 0
 
-    logger.log([ market.profit_per_trade ,  ])
+    logger.log([ market.profit_per_trade , Buyer.BUYER_TYPE_MU - Farmer.FARMER_TYPE_MU ])
 
-    print('\n')
-    print("Market profit per trade: {2:d}, Total market trade profit: {0:d}, Misc profit: {1:d}".format(market.profit_trade, market.profit_mech, market.profit_per_trade))
+    #print('\n')
+    #print("Market profit per trade: {2:d}, Total market trade profit: {0:d}, Misc profit: {1:d}".format(market.profit_trade, market.profit_mech, market.profit_per_trade))
 
-    print('\n')
-    print("Quantity of goods in hand of market: {0:d}".format(market.total_trade_farmer - market.total_trade_buyer))
+    #print('\n')
+    #print("Quantity of goods in hand of market: {0:d}".format(market.total_trade_farmer - market.total_trade_buyer))
 
-    print('\n')
+    #print('\n')
+
+    print("Mechanism Finished")
     return allocation
 
 

@@ -58,16 +58,16 @@ def Remove_agent(agent):
 #Check whether the allocation is peformed at the correct seller/buyer id
 
 def PerformAllocations(market,Allocations):
-	for i in range(len(Allocations[0])):
-		for j in range(len(Allocations)):
+	for col in range(len(Allocations[0])):
+		for row in range(len(Allocations)):
 			#decrease farmer quantity by the allocated value
 			# decrease buyer quantity by the allocated value
-			market.farmers[i].qty = market.farmers[i].qty - Allocations[i][j]
-			market.buyers[j].qty = market.buyers[j].qty - Allocations[i][j]
+			market.farmers[row].qty = market.farmers[row].qty - Allocations[row][col]
+			market.buyers[col].qty = market.buyers[col].qty - Allocations[row][col]
 	print(" Allocation Finished")
 
 
-	
+
 #each agent updates bids according to last days sales
 # if he hasnt sold his stuff then move bid closer to the true_type
 # better to be less greedy and sell off stuff than to not sell
