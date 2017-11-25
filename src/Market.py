@@ -76,6 +76,7 @@ class Market(object):
 	def Trading(self):
 
 		while(True):
+			yield self.env.timeout(5)
 
 			#add or remove agents for the day
 			UpdateAgents(self.farmers,self.buyers,self)\

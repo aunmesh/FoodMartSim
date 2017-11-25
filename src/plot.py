@@ -14,11 +14,12 @@ def smoothen(a, b, n=100):
     a = a[0: y_smoothed.shape[0]]
     return a, y_smoothed
 
-Log_File = 'MarketProfit.log'
+Log_File = 'MarketProfit'
 data = pd.read_csv(Log_File)
 
-Field1_name = 'Market_Profit'
-Field2_name = 'Qty_Traded'
+'''
+Field1_name = 'Market_Profit_per_trade'
+Field2_name = 'Difference_in_mean_types'
 
 Field1 = np.asarray(data[Field1_name])
 Field2 = np.asarray(data[Field2_name])
@@ -38,6 +39,47 @@ linea = popFig.line("x", "y", source=datacoords)
 show(popFig)
 
 @linear(m=0.05, b=0)
+'''
+
+################################################
+################################################
+
+
+Field1_name = 'Market_Profit_per_trade'
+#Field2_name = 'Qty_Traded'
+
+Field1 = np.asarray(data[Field1_name])
+x = np.linspace(0, Field1.shape[0] - 1, Field1.shape[0])
+
+# OPTIONAL
+#x, Field1 = smoothen(x, Field1)
+
+popFig = figure(plot_width=800,
+                plot_height=400,
+                title =  Field1_name +" plot",
+                x_axis_label='Time',
+                y_axis_label='Population')
+datacoords = ColumnDataSource(data=dict(x=x[0:-1], y=Field1[0:-1]))
+linea = popFig.line("x", "y", source=datacoords)
+show(popFig)
+'''
+Field2 = np.asarray(data[Field2_name])
+
+# OPTIONAL
+#x, Field2 = smoothen(x, Field2)
+
+HapFig = figure(plot_width=800,
+                plot_height=400,
+                title= Field2_name + " plot",
+                x_axis_label='Time',
+                y_axis_label=Field2_name
+                y_range = (0, 0.5)
+                )
+
+datacoords = ColumnDataSource(data=dict(x=x[100:-1], y=happy[100:-1]))
+lineb = HapFig.line("x", "y", source=datacoords)
+show(HapFig)
+'''
 
 def update(step):
     data = pd.read_csv(Log_File)
@@ -58,41 +100,3 @@ session = push_session(curdoc())
 curdoc().add_periodic_callback(update, 0.01)  # period in ms
 session.show()
 session.loop_until_closed()
-
-
-'''
-Field1_name = 'Market_Profit'
-Field2_name = 'Qty_Traded'
-
-Field1 = np.asarray(data[Field1_name])
-x = np.linspace(0, Field1.shape[0] - 1, Field1.shape[0])
-
-# OPTIONAL
-#x, Field1 = smoothen(x, Field1)
-
-popFig = figure(plot_width=800,
-                plot_height=400,
-                title =  Field1_name +" plot",
-                x_axis_label='Time',
-                y_axis_label='Population')
-datacoords = ColumnDataSource(data=dict(x=x[100:-1], y=Field1[100:-1]))
-linea = popFig.line("x", "y", source=datacoords)
-show(popFig)
-
-Field2 = np.asarray(data[Field2_name])
-
-# OPTIONAL
-#x, Field2 = smoothen(x, Field2)
-
-HapFig = figure(plot_width=800,
-                plot_height=400,
-                title= Field2_name + " plot",
-                x_axis_label='Time',
-                y_axis_label=Field2_name
-                y_range = (0, 0.5)
-                )
-
-datacoords = ColumnDataSource(data=dict(x=x[100:-1], y=happy[100:-1]))
-lineb = HapFig.line("x", "y", source=datacoords)
-show(HapFig)
-'''

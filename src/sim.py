@@ -10,7 +10,7 @@ buyer_pop = 15#Numeric value
 
 time_steps = 10000 #Simulation Span
 
-logger = logger("MarketProfit", [ 'Market_Profit' , 'Qty_Traded'])
+logger = logger("MarketProfit", [ 'Market_Profit_per_trade' , 'Difference_in_mean_types'])
 
 market = Market(env, 'India', farmer_pop, buyer_pop, logger)
 
